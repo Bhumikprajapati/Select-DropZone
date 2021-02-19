@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Rselect from './Rselect';
 import Hobby from './Hobby'
-import DropZone from './DropZone'
+import DropZone from './DropZone/DropZone'
 
 class form extends Component {
   

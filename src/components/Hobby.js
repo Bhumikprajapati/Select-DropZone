@@ -8,7 +8,7 @@ const options=[
     {value:'Cricket',label:' 🏏Cricket'},
     {value:'Dancing',label:'🕺Dancing'},
     {value:'Singing',label:'🎤Singing'},
-    {value:'Books',label:'📚Books'}
+    {value:'Books',label:'📚Reading Books'}
 ]
 const controlStyles = {
     borderRadius: '1px solid black',
